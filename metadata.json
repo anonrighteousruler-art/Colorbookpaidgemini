@@ -1,0 +1,6 @@
+{
+  "name": "ToyMarker",
+  "description": "Visualizes products in various marketing mediums for children/teens drawing and coloring books using Generative AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
